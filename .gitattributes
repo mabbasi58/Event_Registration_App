@@ -1,0 +1,2 @@
+*.event-registration-app filter=lfs diff=lfs merge=lfs -text
+event-registration-app/** filter=lfs diff=lfs merge=lfs -text
