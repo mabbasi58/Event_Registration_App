@@ -1,7 +1,5 @@
 # Event_Registration_App
 
-Certainly, let's break down the steps and requirements for creating an "Event Registration App" using React:
-
 **1. Set Up a React Project:**
    - Start by creating a new React project using a tool like Create React App (CRA) or your preferred React development environment.
 
