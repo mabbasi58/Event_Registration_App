@@ -1,0 +1,40 @@
+
+/* event.css */
+.navbar {
+    background-color: black;
+    /* Add more styles as needed */
+  }
+  
+  .logo {
+    color: rgb(54, 109, 177);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .nav-link.green {
+    color: rgb(54, 109, 177);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar-brand img {
+    filter: invert(100%);
+  }
+  
+  .para {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .navbar-nav .nav-link {
+    width: 10rem;
+  }
+  
+  .head {
+    font-weight: bold;
+  }
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end; 
+  }
+    
